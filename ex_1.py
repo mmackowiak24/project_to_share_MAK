@@ -1,8 +1,6 @@
 def hello(a: str) -> str:
-    # TODO
-    return "Hello Ola"
-
-
+    return "Hello {}".format(a)
+    
 # assert hello("Ola") == "Hello Ola"
 # assert hello("Zuzia") == "Hello Zuzia"
 

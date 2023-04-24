@@ -1,3 +1,3 @@
 def policz_studentow(studenci) -> int:
-    # TODO
-    return 0
+    return len(studenci)
+
